@@ -1,0 +1,8 @@
+/*Los Hooks son funciones que React nos provee (la biblioteca nucleo de React), para añadir funcionalidad extra a nuestra aplicacion.
+Funciones que ya nos da React, para que podamos extender código
+Los Hooks básicos que nos provee React son:
+    - useState
+    - useEffect
+    - useContext
+Estas funciones nos sirven para guardar datos, cambiar datos, 
+*/
